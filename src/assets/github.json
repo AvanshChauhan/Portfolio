@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1,
+  "image": "/src/assets/re.png",
+  "title": "Respawn – GSAP-Powered Gaming Store UI Concept",
+  "description": "A front-end visual experience project focused on creating a gaming shop interface using React and GSAP. Built purely for learning advanced animations and smooth transitions, this project emphasizes interactive UI design rather than backend functionality.",
+  "tags": ["React", "GSAP", "JavaScript", "CSS"],
+  "repoLink": "https://github.com/AvanshChauhan/Respawn",
+  "demoLink": "https://respawnm.onrender.com/"
+},
+  {
+  "id": 2,
+  "image": "/src/assets/pi.png",
+  "title": "Pixcribe – AI Text-to-Image Generator",
+  "description": "A full-stack web application that converts text prompts into AI-generated images. Built with React for a dynamic frontend and Node.js with Express for backend processing, the app uses MongoDB for data storage and integrates Razorpay for handling payments or credits. Designed to explore AI-based content generation with a smooth user experience.",
+  "tags": ["React", "Node.js", "Express", "MongoDB", "Razorpay"],
+  "repoLink": "https://github.com/AvanshChauhan/pixcribe",
+  "demoLink": "https://pixcribe-frontend.onrender.com/"
+},
+ {
+  "id": 3,
+  "image": "/src/assets/pi.png",
+  "title": "Wizard – GSAP Marketing Experience",
+  "description": "A front-end visual experience project focused on creating an engaging marketing interface using HTML, CSS, and GSAP. Built to explore smooth animations, scroll-based interactions, and modern UI storytelling without any backend functionality.",
+  "tags": ["HTML", "CSS", "GSAP", "JavaScript"],
+  "repoLink": "https://github.com/AvanshChauhan/WizardZ",
+  "demoLink": null
+}
+  
+]

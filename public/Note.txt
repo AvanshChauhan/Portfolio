@@ -1,0 +1,45 @@
+/**
+ * @file: profile.config.ts
+ * @author: Engineering Portfolio
+ * @summary: A high-performance full-stack engineer.
+ */
+
+// --------------------------------------------------
+// 1. CORE DEPENDENCIES & SKILLS
+// --------------------------------------------------
+
+const TECH_STACK = {
+  frontend: [
+    "React.js",    // 100%
+    "Next.js",     // 95%
+    "TailwindCSS", // 90%
+    "GSAP",    // 70%
+  ],
+  backend: [
+    "Node.js",     // 90%
+    "MngoDb",  // 85%
+    "SQL",       // 75%
+    "Express",      // 80%
+  ],
+  tools: ["Git"]
+};
+// --------------------------------------------------
+// 2. ACADEMIC BACKGROUND
+// --------------------------------------------------
+
+const education = new Map<string, string>([
+  ["Ambalika institute of managment and technology", "B.Tech CSE (AI-ML)"]
+]);
+
+export default new ProfessionalHistory();
+
+
+```bash
+# TERMINAL OUTPUT
+# ---------------------------------------
+$ user --status
+> Status: Open to Opportunities
+> Location: Global / Remote
+> Loading Assets... [||||||||||] 100%
+> Ready.
+```
