@@ -18,7 +18,7 @@ const Cli = ({ windowName, setWindowState }) => {
         return `
 Frontend: React, JavaScript, CSS, SCSS, HTML, Vite
 Backend: Node.js, Express
-Tools: Git, ESLint, npm
+Tools: Git, ESLint, npm, Postman
 Other: Web Development, UI/UX, Responsive Design
         `;
       },
