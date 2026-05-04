@@ -16,7 +16,7 @@ const Cli = ({ windowName, setWindowState }) => {
       usage: "skills",
       fn: () => {
         return `
-Frontend: React, JavaScript, CSS, SCSS, HTML, Vite
+Frontend: React, JavaScript, CSS, SCSS, HTML, Vite, figma
 Backend: Node.js, Express
 Tools: Git, ESLint, npm, Postman
 Other: Web Development, UI/UX, Responsive Design
@@ -32,6 +32,7 @@ Other: Web Development, UI/UX, Responsive Design
 2. Pixcribe - Text to image generator
 3. Respawn - An visual experience for gaming market
 4. Wizard - An market agency visual experience
+5. Juice - An figma design
         `;
       },
     },
